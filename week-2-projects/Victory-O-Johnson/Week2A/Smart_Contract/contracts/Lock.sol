@@ -1,8 +1,12 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: UNLICENSE
 pragma solidity ^0.8.28;
 
 // Uncomment this line to use console.log
 // import "hardhat/console.sol";
+
+
+// contract name start with capital letter. File name can... 
+//be lower case or uppercase and all code within the brazes
 
 contract Lock {
     uint public unlockTime;
